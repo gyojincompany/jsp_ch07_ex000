@@ -20,5 +20,7 @@
 		 }
 	
 	%>
+	<br>
+	<a href="cookieDelete.jsp">쿠키삭제</a>
 </body>
 </html>
